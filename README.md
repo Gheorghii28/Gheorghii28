@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gheorghii Popovici</h1>
 <h3 align="center">I'm a passionate Frontend Developer with a keen interest in creating intuitive and responsive web applications. Currently, I'm focusing on mastering the latest web technologies to build scalable and performant user interfaces.</h3>
-<img align="right" alt="Coding" width="300"  src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+<a href="https://gheorghii-popovici.de" target="blank"><img align="right" alt="Coding" width="300"  src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"></a>
 
 - 🔭 I’m currently working on [Spotifyify](https://github.com/Gheorghii28/Spotifyify)
 
