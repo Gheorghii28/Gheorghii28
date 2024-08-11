@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Spotifyify](https://github.com/Gheorghii28/Spotifyify)
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **PHP**
 
 - 👨‍💻 All of my projects are available at [https://gheorghii-popovici.de](https://gheorghii-popovici.de)
 
