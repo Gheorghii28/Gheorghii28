@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [CRM](https://github.com/Gheorghii28/CRM)
 
-- 🌱 I’m currently learning **PHP**
-
 - 👨‍💻 All of my projects are available at [https://gheorghii-popovici.de](https://gheorghii-popovici.de)
 
 - 📫 How to reach me **kontakt@gheorghii-popovici.de**
