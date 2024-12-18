@@ -3,7 +3,7 @@
 
 <a href="https://gheorghii-popovici.de" target="blank"><img align="right" alt="Coding" width="300"  src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"></a>
 
-- 🔭 I’m currently working on [CRM](https://github.com/Gheorghii28/CRM)
+- 🔭 I’m currently working on [DataView](https://github.com/Gheorghii28/DataView)
 
 - 👨‍💻 All of my projects are available at [https://gheorghii-popovici.de](https://gheorghii-popovici.de)
 
